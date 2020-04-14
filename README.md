@@ -38,7 +38,7 @@ $ python -u pseudo-chinese.py
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+MIT
 
 ## Author
 
