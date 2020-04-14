@@ -51,8 +51,8 @@ def parse(sentence, access_token):
 # ひらがなを削除する関数
 # Function to delete hiragana.
 # 删除平假名的功能
-def hira_to_blank(strj):
-    return "".join(["" if ("ぁ" <= ch <= "ん") else ch for ch in strj])
+def hira_to_blank(str):
+    return "".join(["" if ("ぁ" <= ch <= "ん") else ch for ch in str])
 
 if __name__ == "__main__":
 	envjson = open('env.json', 'r')
