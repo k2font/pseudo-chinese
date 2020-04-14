@@ -6,6 +6,7 @@ This tool will automatically generate fake Chinese from Japanese sentences.
 
 ## Demo
 私は本日定時退社します -> 我本日定時退社也
+
 私はお酒を飲みたい -> 我飲酒希望
 
 ## Requirement
