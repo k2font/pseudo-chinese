@@ -97,7 +97,7 @@ if __name__ == "__main__":
 					elif "連体" in token['features'][0]:
 						prime = "的"
 					elif "疑問符" in token["features"][0]:
-						prime = "如何?"
+						prime = "乎？"
 
 				result_list.append(hira_to_blank(prime))
 
